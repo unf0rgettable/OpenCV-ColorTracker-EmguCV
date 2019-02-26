@@ -1,0 +1,177 @@
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\ControlWC.exe.config
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\ControlWC.exe
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\ControlWC.pdb
+D:\Проект по СПО\ControlWC\ControlWC\obj\Debug\ControlWC.csprojAssemblyReference.cache
+D:\Проект по СПО\ControlWC\ControlWC\obj\Debug\ControlWC.Form1.resources
+D:\Проект по СПО\ControlWC\ControlWC\obj\Debug\ControlWC.Properties.Resources.resources
+D:\Проект по СПО\ControlWC\ControlWC\obj\Debug\ControlWC.csproj.GenerateResource.cache
+D:\Проект по СПО\ControlWC\ControlWC\obj\Debug\ControlWC.csproj.CoreCompileInputs.cache
+D:\Проект по СПО\ControlWC\ControlWC\obj\Debug\ControlWC.exe
+D:\Проект по СПО\ControlWC\ControlWC\obj\Debug\ControlWC.pdb
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Controls.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Fuzzy.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Genetic.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Imaging.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Imaging.Formats.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Imaging.IPPrototyper.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.MachineLearning.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Math.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Neuro.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Robotics.Lego.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Robotics.Surveyor.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Robotics.TeRK.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Video.DirectShow.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Video.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Video.FFMPEG.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Video.Kinect.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Video.VFW.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Video.Ximea.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Vision.dll
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Controls.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Fuzzy.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Genetic.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Imaging.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Imaging.Formats.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.MachineLearning.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Math.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Neuro.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Robotics.Lego.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Robotics.Surveyor.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Robotics.TeRK.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Video.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Video.DirectShow.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Video.FFMPEG.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Video.Kinect.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Video.VFW.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Video.Ximea.xml
+D:\Проект по СПО\ControlWC\ControlWC\bin\Debug\AForge.Vision.xml
+D:\Проект по СПО\ControlWC\ControlWC\obj\Debug\ControlWC.csproj.CopyComplete
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\x64\concrt140.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\x64\cvextern.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\x64\msvcp140.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\x64\vcruntime140.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\x86\concrt140.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\x86\cvextern.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\x86\msvcp140.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\x86\vcruntime140.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\ControlWC.exe.config
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\ControlWC.exe
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\ControlWC.pdb
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\Emgu.CV.UI.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\ZedGraph.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\Emgu.CV.World.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\Emgu.CV.xml
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\Emgu.CV.UI.xml
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\Emgu.Util.xml
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\ZedGraph.xml
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\Emgu.CV.World.xml
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.csprojAssemblyReference.cache
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.Form1.resources
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.Properties.Resources.resources
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.csproj.GenerateResource.cache
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.csproj.CoreCompileInputs.cache
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.csproj.CopyComplete
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.exe
+C:\Users\oleg\Dropbox\Unity\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.pdb
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\x64\concrt140.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\x64\cvextern.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\x64\msvcp140.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\x64\vcruntime140.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\x86\concrt140.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\x86\cvextern.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\x86\msvcp140.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\x86\vcruntime140.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\ControlWC.exe.config
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\ControlWC.exe
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\ControlWC.pdb
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\Emgu.CV.UI.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\ZedGraph.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\Emgu.CV.World.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\Emgu.CV.xml
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\Emgu.CV.UI.xml
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\Emgu.Util.xml
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\ZedGraph.xml
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\Emgu.CV.World.xml
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.csprojAssemblyReference.cache
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.Form1.resources
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.Properties.Resources.resources
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.csproj.GenerateResource.cache
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.csproj.CoreCompileInputs.cache
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.csproj.CopyComplete
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.exe
+C:\Users\tervl\Dropbox\Unity (1)\ControlWebCam\ControlWC\ControlWC\obj\Debug\ControlWC.pdb
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\x64\concrt140.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\x64\cvextern.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\x64\msvcp140.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\x64\vcruntime140.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\x86\concrt140.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\x86\cvextern.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\x86\msvcp140.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\x86\vcruntime140.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\ControlWC.exe.config
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\ControlWC.exe
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\ControlWC.pdb
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\Emgu.CV.UI.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\ZedGraph.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\Emgu.CV.World.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\Emgu.CV.xml
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\Emgu.CV.UI.xml
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\Emgu.Util.xml
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\ZedGraph.xml
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\Emgu.CV.World.xml
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\obj\Debug\ControlWC.csprojAssemblyReference.cache
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\obj\Debug\ControlWC.Form1.resources
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\obj\Debug\ControlWC.Properties.Resources.resources
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\obj\Debug\ControlWC.csproj.GenerateResource.cache
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\obj\Debug\ControlWC.csproj.CoreCompileInputs.cache
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\obj\Debug\ControlWC.csproj.CopyComplete
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\obj\Debug\ControlWC.exe
+C:\Users\oleg\Documents\GitHub\OpenCV-ColorTracker-EmguCV\ControlWC\obj\Debug\ControlWC.pdb
